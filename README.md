@@ -17,7 +17,7 @@ A Python-based desktop banking application built with Tkinter for managing custo
 - **Data Persistence**: Auto-saves to JSON files (`customers.json`, `accounts.json`,`transactions.json`).
 
 ## 🛠️ Tech Stack
-- **Python 3.x**
+- **Python 3.13**
 - **Tkinter** (GUI)
 - **JSON** (Data storage)
 - **uuid** (Account number generation)
